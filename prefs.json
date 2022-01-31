@@ -1,0 +1,7 @@
+{
+    "depth": "-1",
+    "engine": "./stockfish",
+    "threads": "4",
+    "hash": "1M",
+    "syzygy": "C:\\syzygy"
+}

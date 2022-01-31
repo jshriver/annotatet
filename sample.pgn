@@ -1,0 +1,21 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/wkh0K126"]
+[Date "2021.05.29"]
+[White "AJSF2020"]
+[Black "musik92"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "17:24:21"]
+[WhiteElo "2607"]
+[BlackElo "2485"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. Bf4 Bg7 5. Qd2 Nfd7 6. Bc4 e5 7. Be3 Nc6 8. Nf3 exd4 9. Nxd4 O-O 10. O-O-O Nb6 11. Bb3 Na5 12. h4 Nac4 13. Qe2 Nxe3 14. fxe3 h5 15. Nf3 a5 16. Na4 Nxa4 17. Bxa4 c6 18. e5 d5 19. e4 b5 20. Bb3 a4 21. Bxd5 cxd5 22. exd5 Bg4 23. Qe4 a3 24. b3 Qc7 25. Rd3 Bf5 26. Qd4 Bxd3 27. Qxd3 Rac8 28. d6 Qc5 29. Re1 Rcd8 30. Kb1 Rfe8 31. g3 Bxe5 32. Nxe5 Rxe5 33. Rf1 Rxd6 34. Qf3 Qd5 35. Qf2 Rf5 36. Rd1 Rxf2 37. Re1 Qd1+ 38. Rxd1 Rxd1# 0-1
+
+
